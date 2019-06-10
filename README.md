@@ -1,5 +1,2 @@
-
-git clone https://github.com/shp55555/v2ray -b master
-cd v2ray
-chmod +x install.sh
-./install.sh local
+# 安装方法
+## 代码
